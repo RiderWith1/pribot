@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "username",
+    "username": "Wallibearthesus",
     "password": "",
     "type": "mojang"
   },
@@ -21,22 +21,22 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "pass"
+      "password": "herobald"
     },
 
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
 
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 200,
 
       "messages": [
         "/skyblock",
-        "msg"
+        "/is warp priyansh afk2"
       ]
     },
 
